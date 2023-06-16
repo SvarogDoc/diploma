@@ -12,6 +12,6 @@
 5. Запустить тесты из пакета, путь: fmh-android\app\src\androidTest\java\ru\iteco\fmhandroid\ui\tests
 6. Через терминал `./gradlew connectedAndroidTest`
 7. После запуска всех тестовых классов, нужно забрать из файловой системы устройства на котором было произведено тестирование, сформированный Allure отчет через Device File Explorer по пути: ``/data/data/ru.iteco.fmhandroid/files/allure-results``
-8. В проекте Allure отчет о тестировании доступен в архиве [allure-results](/allure-results.zip)
+8. В проекте Allure отчет о тестировании доступен в архиве [allure-results](/allure-results.zip). 
    В каталоге allure-results после извлечения из архива, при условии установленного на ПК Allure, выполнить комманду ``allure serve <путь к папке с отчётом>`` для открытия отчета в браузере.
 9. Требование к устройству на котором будет произведен запуск автотестов: Русская локаль устройства, на ПК установлен Android SDK.
