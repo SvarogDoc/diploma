@@ -7,12 +7,12 @@
 1. 7 тест-кейсов проверки GUI.
 2. 19 тест-кейсов на функциональность приложения.
 
-![Summary](https://prnt.sc/kPO2toQUBnE_)
+![Summary](https://github.com/SvarogDoc/diploma/blob/main/img/Screenshot_3.png)
 
 
 **Проваленные тесты:**
 
-![Fail](https://prnt.sc/9YwWDXlWnrMy)
+![Fail](https://github.com/SvarogDoc/diploma/blob/main/img/Screenshot_4.png)
 
 На проваленные тесты заведены, соответствующие баг-репорты.
 
